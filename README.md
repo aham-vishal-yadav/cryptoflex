@@ -35,7 +35,7 @@ CryptoFolio WebApp built with React is a crypto currency tracking and portfolio 
 ### Installation
 
 ```
-git clone https://github.com/manavsiddharthgupta/CryptoFolio.git
+git clone https://github.com/aham-vishal-yadav/cryptoflex.git
 
 npm install
 
